@@ -8,5 +8,6 @@ namespace Demo.ApiServiceController
 {
     public class Class1
     {
+
     }
 }
